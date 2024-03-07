@@ -1,0 +1,1 @@
+import{_ as r,o as e,c as a,a as _}from"./index.c4dbada7.js";const t={};function o(c,n){return e(),a("div",null," page 1 ")}var s=r(t,[["render",o]]);const u={__name:"IndexPage",setup(c){return(n,l)=>(e(),a("div",null,[_(s)]))}};export{u as default};
